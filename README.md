@@ -72,6 +72,38 @@ service bind9 restart
 Lakukan konfigurasi sesuai gambar yang telah diberikan
 
 
+Frieren
+10.16.4.2
+
+Flamme
+10.16.4.3
+
+Fern
+10.16.4.4
+
+Himmel
+10.16.1.2
+
+Heiter
+10.16.1.3
+
+Denken
+10.16.2.2
+
+Elsen
+10.16.2.3
+
+Lawine
+10.16.3.2
+
+Linie
+10.16.3.3
+
+Lugner
+10.16.3.4
+
+
+
 ## 2-5. DHCP
 
 Pada DHCP server dijalankan bash berikut.
